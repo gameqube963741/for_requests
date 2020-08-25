@@ -9,6 +9,8 @@ verify_ssl = true
 requests = "*"
 pip = "*"
 beautifulsoup4 = "*"
+bs4 = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.7"
