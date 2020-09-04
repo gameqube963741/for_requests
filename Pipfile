@@ -11,6 +11,8 @@ pip = "*"
 beautifulsoup4 = "*"
 bs4 = "*"
 selenium = "*"
+lxml = "*"
+html5lib = "*"
 
 [requires]
 python_version = "3.7"
